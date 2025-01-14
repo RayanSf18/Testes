@@ -1,4 +1,4 @@
-package com.rayan.urlshortener;
+package com.rayan;
 
 /**
  * Explicação: O código calcula o total de faturamento somando os valores fornecidos para cada estado.

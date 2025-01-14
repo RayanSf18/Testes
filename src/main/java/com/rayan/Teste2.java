@@ -1,4 +1,4 @@
-package com.rayan.urlshortener;
+package com.rayan;
 
 import java.util.Scanner;
 

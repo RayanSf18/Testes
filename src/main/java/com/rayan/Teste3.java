@@ -1,4 +1,4 @@
-package com.rayan.urlshortener;
+package com.rayan;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
